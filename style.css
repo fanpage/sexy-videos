@@ -4,3 +4,7 @@ html,body {
 	font-family: sans-serif;
 	font-size: small;
 }
+
+#videos {
+	margin: auto;
+}
